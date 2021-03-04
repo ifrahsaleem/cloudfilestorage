@@ -1,0 +1,18 @@
+C:\Users\Dell\Downloads\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Dell\Downloads\Client\Client\bin\Debug\Client.exe
+C:\Users\Dell\Downloads\Client\Client\bin\Debug\Client.pdb
+C:\Users\Dell\Downloads\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Downloads\Client\Client\obj\Debug\Client.Client.resources
+C:\Users\Dell\Downloads\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Dell\Downloads\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Dell\Downloads\Client\Client\obj\Debug\Client.exe
+C:\Users\Dell\Downloads\Client\Client\obj\Debug\Client.pdb
+F:\CS 408\Project\Step 1\Client\Client\bin\Debug\Client.exe.config
+F:\CS 408\Project\Step 1\Client\Client\obj\Debug\Client.exe
+F:\CS 408\Project\Step 1\Client\Client\obj\Debug\Client.pdb
+F:\CS 408\Project\Step 1\Client\Client\bin\Debug\Client.exe
+F:\CS 408\Project\Step 1\Client\Client\bin\Debug\Client.pdb
+F:\CS 408\Project\Step 1\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\CS 408\Project\Step 1\Client\Client\obj\Debug\Client.Client.resources
+F:\CS 408\Project\Step 1\Client\Client\obj\Debug\Client.Properties.Resources.resources
+F:\CS 408\Project\Step 1\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
